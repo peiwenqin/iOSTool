@@ -105,6 +105,7 @@
 				A59A66E2201EE40A001CA126 /* AppDelegate.m */,
 				A59A66E4201EE40A001CA126 /* ViewController.h */,
 				A59A66E5201EE40B001CA126 /* ViewController.m */,
+				A59A66EF201EE40B001CA126 /* Info.plist */,
 				A59A6713201EE48F001CA126 /* Resource */,
 			);
 			path = DemoTool;
@@ -132,7 +133,6 @@
 			isa = PBXGroup;
 			children = (
 				A59A66EA201EE40B001CA126 /* Assets.xcassets */,
-				A59A66EF201EE40B001CA126 /* Info.plist */,
 				A59A66EC201EE40B001CA126 /* LaunchScreen.storyboard */,
 				A59A66F0201EE40B001CA126 /* main.m */,
 				A59A66E7201EE40B001CA126 /* Main.storyboard */,
@@ -441,7 +441,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 43BLLW3XG5;
 				INFOPLIST_FILE = DemoTool/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.helloWorld.DemoTool;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -456,7 +456,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 43BLLW3XG5;
 				INFOPLIST_FILE = DemoTool/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.helloWorld.DemoTool;
 				PRODUCT_NAME = "$(TARGET_NAME)";
